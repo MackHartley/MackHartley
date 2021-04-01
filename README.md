@@ -1,1 +1,5 @@
-[![Macks's GitHub stats](https://github-readme-stats.vercel.app/api?username=MackHartley&count_private=true)](https://github.com/MackHartley/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/MackHartley/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MackHartley&count_private=true&show_icons=true" />
+  </a>
+</p>
