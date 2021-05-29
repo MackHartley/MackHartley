@@ -20,7 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MackHartley&count_private=true&show_icons=true&theme=dark" />
   </a>
 </p>
-<h2>What I'm currently working on</h2>
+<h2>What I'm Currently Working On</h2>
 <p>
   <ul>
     <li>🛠️&nbsp;&nbsp;&nbsp;Creating <a href="https://github.com/MackHartley/DashedView">DashedView</a>, an Android library for creating backgrounds with repeating dashes</li>
