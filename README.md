@@ -18,7 +18,7 @@
     - Passionate about fitness&nbsp;&nbsp;🏋️
 </div>
 <p align="center">
-  <i>Note: Stats do not include work for private entities</i>
+  <i>Stats below do not include work for private entities</i>
   <br>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=MackHartley&count_private=true&show_icons=true&theme=dark" />
   <br>
