@@ -10,15 +10,15 @@
 </div>
 
 <div align="center">
-  <ul>
-    - Android developer&nbsp;&nbsp;📱
-    <br>
-    - Interested in backend technologies&nbsp;&nbsp;🖥️
-    <br>
-    - Passionate about fitness&nbsp;&nbsp;🏋️
+  📱&nbsp;&nbsp;Android developer
+  <br>
+  🖥️&nbsp;&nbsp;&nbsp;Interested in backend technologies
+  <br>
+  🏋️&nbsp;&nbsp;&nbsp;Passionate about fitness
 </div>
+<br>
 <p align="center">
-  <i>Stats below do not include work for private entities</i>
+  <i>Stats below don't include all work for private entities</i>
   <br>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=MackHartley&count_private=true&show_icons=true&theme=dark" />
   <br>
