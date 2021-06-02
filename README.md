@@ -4,9 +4,9 @@
   
   ![Kotlin](https://img.shields.io/badge/Kotlin-Proficient-brightgreen)
   ![Java](https://img.shields.io/badge/Java-Proficient-brightgreen)
-  ![Scala](https://img.shields.io/badge/Scala-Capable-yellowgreen)
-  ![Python](https://img.shields.io/badge/Python-Familiar-yellow)
-  ![Java Script](https://img.shields.io/badge/Java%20Script-Familiar-yellow)
+  ![Scala](https://img.shields.io/badge/Scala-Capable-yellow)
+  ![Python](https://img.shields.io/badge/Python-Familiar-lightgray)
+  ![Java Script](https://img.shields.io/badge/Java%20Script-Familiar-lightgray)
 </div>
 
 <div align="center">
