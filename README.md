@@ -6,7 +6,6 @@
   ![Java](https://img.shields.io/badge/Java-Proficient-brightgreen)
   ![Scala](https://img.shields.io/badge/Scala-Capable-yellow)
   ![Python](https://img.shields.io/badge/Python-Familiar-lightgray)
-  ![Java Script](https://img.shields.io/badge/Java%20Script-Familiar-lightgray)
 </div>
 
 <div align="center">
@@ -28,5 +27,5 @@
 <p align="center">
   🛠️&nbsp;&nbsp;&nbsp;&nbsp;Creating <a href="https://github.com/MackHartley/DashedView">DashedView</a>, an Android library for creating backgrounds with repeating dashes
   <br>
-  📚&nbsp;&nbsp;&nbsp;&nbsp;Learning Scala, Akka, and Scala Play
+  📚&nbsp;&nbsp;&nbsp;&nbsp;Learning about rest api authentication and OAuth2.0
 </p>
