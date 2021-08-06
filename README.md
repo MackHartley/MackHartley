@@ -25,7 +25,5 @@
 </p>
 <h2 align="center">What I'm Currently Working On</h2>
 <p align="center">
-  🛠️&nbsp;&nbsp;&nbsp;&nbsp;Creating <a href="https://github.com/MackHartley/DashedView">DashedView</a>, an Android library for creating backgrounds with repeating dashes
-  <br>
   📚&nbsp;&nbsp;&nbsp;&nbsp;Learning about rest api authentication and OAuth2.0
 </p>
