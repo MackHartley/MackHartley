@@ -25,5 +25,5 @@
 </p>
 <h2 align="center">What I'm Currently Working On</h2>
 <p align="center">
-  📚&nbsp;&nbsp;&nbsp;&nbsp;Learning about rest api authentication and OAuth2.0
+  📚&nbsp;&nbsp;&nbsp;&nbsp;Learning about Dagger 2 and Anvil
 </p>
